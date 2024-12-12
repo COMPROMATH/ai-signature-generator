@@ -8,22 +8,32 @@
 
 <url>
   <loc>https://ai-signature-generator.compromath.com/</loc>
-  <lastmod>2024-11-19T02:10:20+00:00</lastmod>
+  <lastmod>2024-12-12T10:48:37+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://ai-signature-generator.compromath.com/p/about.html</loc>
-  <lastmod>2024-11-19T02:10:20+00:00</lastmod>
+  <loc>https://ai-signature-generator.compromath.com/text-to-signature/</loc>
+  <lastmod>2024-12-12T10:48:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ai-signature-generator.compromath.com/p/privacy-policy.html</loc>
-  <lastmod>2024-11-19T02:10:20+00:00</lastmod>
+  <loc>https://ai-signature-generator.compromath.com/text-to-logo-maker/</loc>
+  <lastmod>2024-12-12T10:48:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-signature-generator.compromath.com/p/about.html</loc>
+  <lastmod>2024-12-12T10:48:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ai-signature-generator.compromath.com/p/terms-of-services.html</loc>
-  <lastmod>2024-11-19T02:10:20+00:00</lastmod>
+  <lastmod>2024-12-12T10:48:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-signature-generator.compromath.com/p/privacy-policy.html</loc>
+  <lastmod>2024-12-12T10:48:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
