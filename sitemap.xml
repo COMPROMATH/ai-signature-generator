@@ -6,51 +6,80 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 
-
 <url>
   <loc>https://ai-signature-generator.compromath.com/</loc>
-  <lastmod>2024-12-13T14:27:16+00:00</lastmod>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://ai-signature-generator.compromath.com/de/</loc>
-  <lastmod>2024-12-13T14:27:16+00:00</lastmod>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ai-signature-generator.compromath.com/fr/</loc>
-  <lastmod>2024-12-13T14:27:16+00:00</lastmod>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ai-signature-generator.compromath.com/it/</loc>
-  <lastmod>2024-12-13T14:27:16+00:00</lastmod>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ai-signature-generator.compromath.com/text-to-signature/</loc>
-  <lastmod>2024-12-13T14:27:16+00:00</lastmod>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ai-signature-generator.compromath.com/text-to-logo-maker/</loc>
-  <lastmod>2024-12-13T14:27:16+00:00</lastmod>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ai-signature-generator.compromath.com/p/about.html</loc>
-  <lastmod>2024-12-13T14:27:16+00:00</lastmod>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ai-signature-generator.compromath.com/p/terms-of-services.html</loc>
-  <lastmod>2024-12-13T14:27:16+00:00</lastmod>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ai-signature-generator.compromath.com/p/privacy-policy.html</loc>
-  <lastmod>2024-12-13T14:27:16+00:00</lastmod>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ai-signature-generator.compromath.com/de/text-to-signature/</loc>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ai-signature-generator.compromath.com/de/text-to-logo-maker/</loc>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ai-signature-generator.compromath.com/fr/text-to-signature/</loc>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ai-signature-generator.compromath.com/fr/text-to-logo-maker/</loc>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ai-signature-generator.compromath.com/it/text-to-signature/</loc>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ai-signature-generator.compromath.com/it/text-to-logo-maker/</loc>
+  <lastmod>2024-12-14T06:43:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
