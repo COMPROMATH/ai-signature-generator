@@ -24,6 +24,7 @@
 <meta content='#16181D' name='msapplication-navbutton-color'/>
 <link rel="canonical" href="https://ai-signature-generator.compromath.com/de/" />
 <link rel="alternate" hreflang="en" href="https://ai-signature-generator.compromath.com/" />
+<link rel="alternate" hreflang="es" href="https://ai-signature-generator.compromath.com/es/" />
 <link rel="alternate" hreflang="fr" href="https://ai-signature-generator.compromath.com/fr/" />
 <link rel="alternate" hreflang="it" href="https://ai-signature-generator.compromath.com/it/" />
 <link rel="alternate" hreflang="x-default" href="https://ai-signature-generator.compromath.com/" />
@@ -59,22 +60,6 @@
 </script>
 </head>
 <body>
-    <div class="language-switcher">
-    <a href="https://ai-signature-generator.compromath.com/" title="English">
-        <img src="https://ai-signature-generator.compromath.com/assets/flag-for-usa.png" alt="English" />
-    </a>
-    <a href="https://ai-signature-generator.compromath.com/de/" title="Deutsch">
-        <img src="https://ai-signature-generator.compromath.com/assets/flag-for-germany.png" alt="German" />
-    </a>
-    <a href="https://ai-signature-generator.compromath.com/fr/" title="Français">
-        <img src="https://ai-signature-generator.compromath.com/assets/flag-for-france.png" alt="French" />
-    </a>
-    <a href="https://ai-signature-generator.compromath.com/it/" title="Italiano">
-        <img src="https://ai-signature-generator.compromath.com/assets/flag-for-italy.png" alt="Italian" />
-    </a>
-</div>
-
-<style>.language-switcher{position:fixed;top:50%;right:10px;transform:translateY(-50%);display:flex;flex-direction:column;gap:10px;z-index:1000}.language-switcher a{display:block;width:25px;height:25px;transition:transform .3s}.language-switcher img{width:100%;height:100%;border-radius:50%}.language-switcher a:hover{transform:scale(1.2)}</style>
 <div class='main-wrapper'>
 <div class='mobile-header'>
 <div class='container'>
@@ -129,12 +114,10 @@ Copyright: COMPROMATH
 </div></div>
 </div><!--./main-nav-->
 <div class='overlay-search col-md-3'>
-<form action='https://www.compromath.com/search' target='_top'>
-<input aria-label='Search' autocomplete='off' class='search-input' name='q' placeholder='Suche hier...' value=''/><label>
-<input class='search-action' type='submit' value=''/>
-<svg enable-background='new 0 0 227.096 227.096' version='1.1' viewBox='0 0 227.1 227.1' xml:space='preserve' xmlns='http://www.w3.org/2000/svg'><polygon fill='#010002' points='152.84 39.285 146.93 45.183 211.11 109.37 0 109.37 0 117.72 211.12 117.72 146.93 181.9 152.84 187.81 227.1 113.55'></polygon></svg>
-</label>
-</form>
+    <a href="#language-modal" rel="modal:open" id="language-cta">
+        <img src="https://ai-signature-generator.compromath.com/assets/flag-for-germany.png" width="25px" height="25px" alt="Deutsch" />
+        Deutsch
+    </a>
 </div>
 </div><!--./big-screen-header-->
 </div><!--./big-screen-header-container-->
@@ -613,19 +596,36 @@ Copyright: COMPROMATH
 <div class='mobile-menu' id='mobile-menu'></div>
 <div class='mobile-menu-footer'>
 <div class='overlay-search'>
-<form action='https://www.compromath.com/search' target='_top'>
-<input aria-label='Search' autocomplete='off' class='search-input' name='q' placeholder='Suche hier...' value=''/><label>
-<input class='search-action' type='submit' value=''/>
-<svg enable-background='new 0 0 227.096 227.096' version='1.1' viewBox='0 0 227.1 227.1' xml:space='preserve' xmlns='http://www.w3.org/2000/svg'><polygon fill='#010002' points='152.84 39.285 146.93 45.183 211.11 109.37 0 109.37 0 117.72 211.12 117.72 146.93 181.9 152.84 187.81 227.1 113.55'></polygon></svg>
-</label>
-</form>
+    <a href="#language-modal" rel="modal:open" id="language-cta">
+        <img src="https://ai-signature-generator.compromath.com/assets/flag-for-germany.png" width="25px" height="25px" alt="Deutsch" />
+        Deutsch
+    </a>
 </div>
 </div>
 </div>
 </div>
 <div class='overlay'></div>
 </div><!--./main-wrapper-->
-
+<div id="language-modal" class="modal">
+    <div class="language-options">
+        <a href="https://ai-signature-generator.compromath.com/" class="language-option">
+            <img src="https://ai-signature-generator.compromath.com/assets/flag-for-usa.png" alt="English" /> English
+        </a>
+        <a href="https://ai-signature-generator.compromath.com/es/" class="language-option">
+            <img src="https://ai-signature-generator.compromath.com/assets/flag-for-spain.png" alt="Español" /> Español
+        </a>
+        <a href="https://ai-signature-generator.compromath.com/de/" class="language-option">
+            <img src="https://ai-signature-generator.compromath.com/assets/flag-for-germany.png" alt="Deutsch" /> Deutsch
+        </a>
+        <a href="https://ai-signature-generator.compromath.com/fr/" class="language-option">
+            <img src="https://ai-signature-generator.compromath.com/assets/flag-for-france.png" alt="Français" /> Français
+        </a>
+        <a href="https://ai-signature-generator.compromath.com/it/" class="language-option">
+            <img src="https://ai-signature-generator.compromath.com/assets/flag-for-italy.png" alt="Italiano" /> Italiano
+        </a>
+    </div>
+  </div>
+<script src="https://ai-signature-generator.compromath.com/assets/modal.js"></script>
 <script src="https://ai-signature-generator.compromath.com/assets/op.js"></script>
 </body>
 </html>
