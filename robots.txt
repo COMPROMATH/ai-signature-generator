@@ -3,5 +3,7 @@ Disallow:
 
 User-agent: *
 Allow: /
+Disallow: /assets/
 
 Sitemap: https://ai-signature-generator.compromath.com/sitemap.xml
+Sitemap: https://ai-signature-generator.compromath.com/sitemap-images.xml
