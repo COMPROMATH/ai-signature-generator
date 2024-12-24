@@ -1,6 +1,6 @@
 {
-  "name": "AI SIGNATURE GENERATOR",
-  "short_name": "COMPROMATH",
+  "name": "AI Signature",
+  "short_name": "AI Signature",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -16,6 +16,6 @@
     }
   ],
   "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "background_color": "#0055dc",
   "display": "standalone"
 }
