@@ -37,4 +37,4 @@ To report a vulnerability in the COMPROMATH AI Signature Generator:
 
 ---
 
-If you need further details or assistance, feel free to contact us through our [support page](https://www.compromath.com/p/contact-us.html).
+If you need further details or assistance, feel free to contact us through our [support page](https://www.compromath.com/contact-us/).
