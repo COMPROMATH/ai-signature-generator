@@ -1,33 +1,157 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 	<loc>https://ai-signature-generator.compromath.com/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
-			<image:loc>https://ai-signature-generator.compromath.com/img/AI-Powered%20Handwritten%20Signature%20Generator.jpg</image:loc>
+			<image:loc>https://ai-signature-generator.compromath.com/favicon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/flag-for-usa.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/AI-Powered%2BHandwritten%2BSignature%2BGenerator.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Albert_Einstein_Head.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Albert_Einstein_signature_1934.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/John_F._Kennedy.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/John_F_Kennedy_Signature.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Monroe_1953_publicity.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Marilyn_Monroe_Signature.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Martin_Luther_King%2C_Jr.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Martin_Luther_King_Jr_Signature.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Steve_Jobs_Headshot_2010.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Steve_Jobs_signature.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Napol%C3%A9on_Bonaparte_par_Paul_Delaroche.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Napole%C3%B3n_Bonaparte.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Shakespeare_Droeshout_1623.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/William_Shakespeare_Signature.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Elvis_Presley_in_1958.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Elvispresley.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Muhammad_Ali.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Muhammad_Ali_signature.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Mother_Teresa.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Signature_of_Mother_Teresa.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Google_Play_Store_badge.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/flag-for-spain.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/flag-for-germany.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/flag-for-france.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/flag-for-italy.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/flag-for-japan.png</image:loc>
 	</image:image>
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/draw-signature/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Smooth-Drawing-Signature-Tool.jpg</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Martin_Luther_King%2C_Jr.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Napol%C3%A9on_Bonaparte_par_Paul_Delaroche.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Napole%C3%B3n_Bonaparte.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/text-to-signature/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/adjust.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/download.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/close.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/pencil.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/canvas.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/bg.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/reset.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/assets/download-blue.svg</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/text-to-signature.jpg</image:loc>
 	</image:image>
 </url>
 <url>
+	<loc>https://ai-signature-generator.compromath.com/ai-logo/</loc>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://ai-signature-generator.compromath.com/img/ai-logo.jpg</image:loc>
+	</image:image>
+</url>
+<url>
 	<loc>https://ai-signature-generator.compromath.com/text-to-logo-maker/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/text-to-logo.jpg</image:loc>
@@ -35,22 +159,22 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/p/about.html</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/p/terms-of-services.html</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/p/privacy-policy.html</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/es/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Generador-de-firmas-de-IA.jpg</image:loc>
@@ -58,7 +182,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/de/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/KI-Unterschriftgenerator.jpg</image:loc>
@@ -66,7 +190,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/fr/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/AI-G%C3%A9n%C3%A9rateur-de-signatures.jpg</image:loc>
@@ -74,7 +198,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/it/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/GENERATORE-DI-FIRME-AI.jpg</image:loc>
@@ -82,7 +206,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/jp/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/ai-signature-jp.jpg</image:loc>
@@ -90,15 +214,15 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/p/signature-tips.html</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
-			<image:loc>https://ai-signature-generator.compromath.com/img/Signature%20Styling%20Guide.JPG</image:loc>
+			<image:loc>https://ai-signature-generator.compromath.com/img/Signature+Styling+Guide.JPG</image:loc>
 	</image:image>
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/es/draw-signature/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Dibujar-la-firma.jpg</image:loc>
@@ -106,7 +230,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/de/draw-signature/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Unterschrift-zeichnen.jpg</image:loc>
@@ -114,7 +238,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/fr/draw-signature/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Dessiner-la-Signature.jpg</image:loc>
@@ -122,7 +246,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/it/draw-signature/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Disegna-la-firma.jpg</image:loc>
@@ -130,7 +254,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/jp/draw-signature/</loc>
-	<lastmod>2024-12-21T06:45:29+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:48+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/draw-signature-jp.jpg</image:loc>
@@ -138,7 +262,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/es/text-to-signature/</loc>
-	<lastmod>2024-12-21T06:45:31+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:49+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Texto-para-la-firma.jpg</image:loc>
@@ -146,7 +270,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/de/text-to-signature/</loc>
-	<lastmod>2024-12-21T06:45:31+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:49+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Text-zur-Signatur.jpg</image:loc>
@@ -154,7 +278,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/fr/text-to-signature/</loc>
-	<lastmod>2024-12-21T06:45:31+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:49+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Texte-signature.jpg</image:loc>
@@ -162,7 +286,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/it/text-to-signature/</loc>
-	<lastmod>2024-12-21T06:45:31+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:49+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Testo-alla-firma.jpg</image:loc>
@@ -170,7 +294,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/jp/text-to-signature/</loc>
-	<lastmod>2024-12-21T06:45:31+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:49+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/text-to-signature-jp.jpg</image:loc>
@@ -178,7 +302,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/es/text-to-logo-maker/</loc>
-	<lastmod>2024-12-21T06:45:31+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:50+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Texto-a-logotipo.jpg</image:loc>
@@ -186,7 +310,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/de/text-to-logo-maker/</loc>
-	<lastmod>2024-12-21T06:45:31+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:50+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Text-zum-Logo.jpg</image:loc>
@@ -194,7 +318,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/fr/text-to-logo-maker/</loc>
-	<lastmod>2024-12-21T06:45:31+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:50+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Texte-vers-logo.jpg</image:loc>
@@ -202,7 +326,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/it/text-to-logo-maker/</loc>
-	<lastmod>2024-12-21T06:45:31+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:50+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/Testo-al-logo.jpg</image:loc>
@@ -210,7 +334,7 @@
 </url>
 <url>
 	<loc>https://ai-signature-generator.compromath.com/jp/text-to-logo-maker/</loc>
-	<lastmod>2024-12-21T06:45:31+01:00</lastmod>
+	<lastmod>2025-07-05T18:30:50+01:00</lastmod>
 	<priority>0.6</priority>
 	<image:image>
 			<image:loc>https://ai-signature-generator.compromath.com/img/text-to-logo-jp.jpg</image:loc>
