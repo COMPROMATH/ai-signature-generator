@@ -35,10 +35,11 @@
 
   function titles() {
     var lang = (document.documentElement.lang || "en").slice(0, 2);
+    if (lang === "ja") lang = "jp";
     var map = {
       en: { ai: "AI Signature", draw: "Draw Signature", text: "Text to Sign", logo: "Logo Maker" },
       es: { ai: "Firma IA", draw: "Dibujar firma", text: "Texto a firma", logo: "Logotipo" },
-      de: { ai: "KI-Signatur", draw: "Signatur zeichnen", text: "Text zu Signatur", logo: "Logo" },
+      de: { ai: "KI-Unterschrift", draw: "Unterschrift zeichnen", text: "Text zu Unterschrift", logo: "Logo" },
       fr: { ai: "Signature IA", draw: "Dessiner", text: "Texte → signature", logo: "Logo" },
       it: { ai: "Firma IA", draw: "Disegna firma", text: "Testo → firma", logo: "Logo" },
       jp: { ai: "AI署名", draw: "署名を描く", text: "テキスト署名", logo: "ロゴ" }
